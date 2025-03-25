@@ -7,7 +7,7 @@ This Python script plots BigMac price data in ASCII format, providing a simple t
 ## Requirements
 
 - Python 3.x
-- JSON data file with price information
+- JSON data file with price information ( gotted it from my other project: https://afa7789.github.io/satsukashii/ )
 
 ## Usage
 
